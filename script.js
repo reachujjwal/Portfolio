@@ -22,14 +22,34 @@ $(document).ready(function(){
 
      // typing text animation script
      var typed = new Typed(".typing-1", {
-        strings: ["Student", "Front End Developer"],
+        strings: [
+            "Backend Developer",
+            "PHP & MySQL Specialist",
+            "JavaScript Enthusiast",
+            "API Integrator",
+            "Problem Solver",
+            "Database Architect",
+            "Full-Stack Developer",
+            "Tech Innovator",
+            "Continuous Learner"
+        ],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Student", "Front End Developer"],
+        strings: [
+            "Backend Developer",
+            "PHP & MySQL Specialist",
+            "JavaScript Enthusiast",
+            "API Integrator",
+            "Problem Solver",
+            "Database Architect",
+            "Full-Stack Developer",
+            "Tech Innovator",
+            "Continuous Learner"
+        ],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
