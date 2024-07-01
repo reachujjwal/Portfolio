@@ -508,7 +508,7 @@ section{
   }
   .content .left-side .details i{
     font-size: 30px;
-    color: crimson;
+    color: rgb(140, 103, 110);
     margin-bottom: 10px;
   }
   .content .left-side .details .topic{
@@ -582,7 +582,7 @@ section{
 
 /*----------- Footer Section Styling----------- */
 footer{
-    background: crimson;
+    background: rgb(140, 103, 110);
     padding: 15px 23px;
     color: white;
     text-align: center;
